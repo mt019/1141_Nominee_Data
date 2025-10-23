@@ -114,13 +114,21 @@ https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPSV,114%2c%e5%8f%b0%e4
 ## 2025.10.23
 
 
+週四 14:00
+
 
 法源系統payload欄位對照
 
 
 
 
-N: 期刊/書籍名稱
+N=期刊/書籍名稱
+S=摘要
+K=關鍵詞
+C=內文
+T=論文/文章標題
+ALL=不限欄位
+A=作者譯者
 
 
 
