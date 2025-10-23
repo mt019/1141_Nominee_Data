@@ -111,6 +111,22 @@ https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPSV,114%2c%e5%8f%b0%e4
 
 
 
+## 2025.10.23
+
+
+
+法源系統payload欄位對照
+
+
+
+
+N: 期刊/書籍名稱
+
+
+
+
+
+
 
 
 
